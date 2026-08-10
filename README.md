@@ -4,7 +4,6 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk)
 ![GeeksforGeeks](https://img.shields.io/badge/Platform-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems_Solved-100+-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 </div>
