@@ -24,7 +24,7 @@
 
 
 
-class Solution {
+class Solution{
     static int findFloor(int[] arr, int x) {
         int l=0, h = arr.length-1, idx = -1;
         while(l <= h){
